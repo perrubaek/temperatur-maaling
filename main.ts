@@ -5,4 +5,5 @@ basic.forever(function () {
     basic.pause(5000)
     Temp += input.temperature()
     basic.showNumber(Temp)
+    basic.pause(5000)
 })
